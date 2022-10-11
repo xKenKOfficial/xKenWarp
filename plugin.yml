@@ -1,0 +1,11 @@
+main: x.KenKOfficial.Warp.Basic.Main
+version: 1.0-Beta
+name: xKenWarp
+author: xKenKOfficial
+description: Plugin Autorstwa xKenKOfficial
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  delwarp:
+  setwarp:
+  warp:

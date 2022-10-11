@@ -1,0 +1,44 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenWarp"
+
+# Tutaj mozna ustawic wiadomosc o braku permisji do komendy:
+no_permission: "&8>> &cNie masz dostepu do tej komendy!"
+
+# Tutaj mozna ustawic wiadomosc, jesli podano za duzo argumentow przy komendzie:
+wrong_args: "&8>> &cZa duza ilosc argumentow!"
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia dla komendy /setwarp:
+setwarp_command_usage: "&8>> &7Poprawne uzycie&8: &b/setwarp (nazwa)"
+
+# Tutaj mozna ustawic wiadomosc, jesli warp zostal pomyslnie stworzony:
+setwarp_success_setup: "&8>> &7Pomyslnie utworzono warp o nazwie&8: &b{NAME_WARP}"
+
+# Tutaj mozna ustawic wiadomosc, jesli administrator probuje ustawic warp o takiej samej nazwie, co istniejacy:
+setwarp_not_create_warp: "&8>> &cNie mozna utworzyc warpu, poniewaz taki juz istnieje!"
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia dla komendy /delwarp:
+delwarp_command_usage: "&8>> &7Poprawne uzycie&8: &b/delwarp (nazwa)"
+
+# Tutaj mozna ustawic wiadomosc, jesli warp zostal usuniety:
+delwarp_success_remove: "&8>> &7Pomyslnie usunieto warp o nazwie&8: &b{NAME_WARP}"
+
+# Tutaj mozna ustawic wiadomosc, jesli administrator probuje usunac nie istniejacy warp:
+delwarp_not_remove_warp: "&8>> &cNie odnaleziono takiego warpu!"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz zle podal nazwe warpa, do ktorego chcial sie przeteleportowac:
+warp_not_find: "&8>> &cNie odnaleziono takiego warpa!"
+
+# Tutaj mozna ustawic czas teleportacji do danego warpa (pamietaj, 6 = 5 sekund):
+warp_time: 6
+
+# Tutaj mozna ustawic wiadomosc z informacja o teleportacji:
+warp_teleport_warp: "&8>> &7Teleportacja..."
+
+# Tutaj mozna ustawic wiadomosc, odliczajaca sekundy do teleportacji:
+warp_timer_message: "&8>> &7Teleportacja nastapi za&8: &b{SEKUNDY} &7sekund."
+
+# Tutaj mozna ustawic wiadomosc o przerwanej teleportacji, jesli gracz sie poruszyl:
+warp_teleport_cancel: "&8>> &cPoruszyles sie i teleportacja zostala przerwana!"
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true
